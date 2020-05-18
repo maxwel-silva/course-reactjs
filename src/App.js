@@ -1,13 +1,11 @@
 import React from 'react'
 
-function App() {
-  return (
-    <div className="App">
+import Header from './components/header/index'
 
-      <h1>Maxwel</h1>
-
-    </div>
-  );
-}
+const App = () => (
+  <div className="App">
+    <Header />
+  </div>
+)
 
 export default App

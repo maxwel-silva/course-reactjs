@@ -1,5 +1,7 @@
 import React from 'react'
 
-const header = () => <header id="main-header">JS Maxwel</header>
+import './styles.css'
 
-export default header
+const Header = () => <header id="main-header">Indian Burguer</header>
+
+export default Header
