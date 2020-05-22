@@ -23,8 +23,8 @@
   - Este repositório é uma aplicação desenvolvida em ReactJS com utilização de uma API em Node para coletar os dados a partir do curso 'Starter' distribuido pela Rocketseat
 
 ## Anotações
- - Criação: ```npm install -g create-react-app```
- - Iniciar: ```npm start```
+ - ```npm install -g create-react-app```
+ - ```npm start```
 
  ---
 
