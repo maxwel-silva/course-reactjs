@@ -11,8 +11,6 @@
   </a>
   </p>
 
-<h1 align="center">JSHunt</h1>
-
 ### :rocket: Tecnologias
   
 -  [Insomnia](https://insomnia.rest/)
