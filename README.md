@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="380" height="274" src="https://user-images.githubusercontent.com/51726945/69503850-c6ea1b00-0efc-11ea-9daa-14295537d9ee.png">
+  <img height="270" src="https://user-images.githubusercontent.com/51726945/69503850-c6ea1b00-0efc-11ea-9daa-14295537d9ee.png">
 </p>
 
 <p align="center">
@@ -11,10 +11,7 @@
   </a>
   </p>
 
-<h1 align="center">       
-   React JavaScript
-</h1>
-
+<h1 align="center">JSHunt</h1>
 
 ### :rocket: Tecnologias
   
