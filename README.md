@@ -19,10 +19,10 @@
 -  [Node.js](https://nodejs.org/en/)
 -  [React.js](https://reactjs.org/)
 
-## Repositório 
+### :gear: Repositório
   - Este repositório é uma aplicação desenvolvida em ReactJS com utilização de uma API em Node para coletar os dados a partir do curso 'Starter' distribuido pela Rocketseat
 
-## Anotações
+### :book: Anotações
  - ```npm install -g create-react-app```
  - ```npm start```
 
