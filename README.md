@@ -2,13 +2,19 @@
   <img width="380" height="274" src="https://user-images.githubusercontent.com/51726945/69503850-c6ea1b00-0efc-11ea-9daa-14295537d9ee.png">
 </p>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/maxwel-silva/node-rest-api">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/maxwel-silva/node-rest-api">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/maxwel-silva/node-rest-api">
+  <a href="https://github.com/maxwel-silva/node-rest-api/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/maxwel-silva/node-rest-api">
+  </a>
+  </p>
+
 <h1 align="center">       
-   JSHunt
+   React JavaScript
 </h1>
 
-<h5 align="center">
-  Repositório Introdutório ReactJS <br>
-</h5>
 
 ### :rocket: Tecnologias
   
