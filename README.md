@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img height="260" src="https://user-images.githubusercontent.com/51726945/69503850-c6ea1b00-0efc-11ea-9daa-14295537d9ee.png">
-</p>
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/maxwel-silva/node-rest-api">
