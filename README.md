@@ -1,14 +1,15 @@
+<h1 align="center">
+  <img height="230" src="https://user-images.githubusercontent.com/51726945/69503850-c6ea1b00-0efc-11ea-9daa-14295537d9ee.png">
+</h1><br>
+
 <p align="center">
-  <img width="380" height="274" src="https://user-images.githubusercontent.com/51726945/69503850-c6ea1b00-0efc-11ea-9daa-14295537d9ee.png">
-</p>
-
-<h1 align="center">       
-   JSHunt
-</h1>
-
-<h5 align="center">
-  Repositório Introdutório ReactJS <br>
-</h5>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/maxwel-silva/node-rest-api">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/maxwel-silva/node-rest-api">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/maxwel-silva/node-rest-api">
+  <a href="https://github.com/maxwel-silva/node-rest-api/commits/master">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/maxwel-silva/node-rest-api">
+  </a>
+  </p>
 
 ### :rocket: Tecnologias
   
@@ -16,16 +17,12 @@
 -  [Node.js](https://nodejs.org/en/)
 -  [React.js](https://reactjs.org/)
 
-## Repositório 
-  - Este repositório é uma aplicação desenvolvida em ReactJS com utilização de uma API em Node para coletar os dados a partir do curso "Starter" distribuido pela Rocketseat
+### :gear: Repositório
+  - Este repositório é uma aplicação desenvolvida em ReactJS com utilização de uma API em Node para coletar os dados a partir do curso 'Starter' distribuido pela Rocketseat
 
-## Importações 
- - **React Router Dom** 
- - **Axios** 
-
-## Anotações
- - Criação: ```npm install -g create-react-app```
- - Iniciar: ```npm start```
+### :book: Anotações
+ - ```npm install -g create-react-app```
+ - ```npm start```
 
  ---
 
