@@ -7,10 +7,10 @@ import Header from './components/header/index.js'
 
 const App = () => (
   <div className="App">
-    
+
     <Header />
     <Routes />
-    
+
   </div>
 )
 
