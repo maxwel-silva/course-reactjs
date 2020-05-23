@@ -28,7 +28,5 @@ export default class Product extends Component {
         </p>
       </div>
     )
-
-
   }
 }
