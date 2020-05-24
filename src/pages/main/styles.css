@@ -35,7 +35,7 @@
   transition: all 0.3s;
 }
 
-.product-list article a:hover{
+.product-list article a:hover {
   background: #FFB268;
   color: black;
 } 
